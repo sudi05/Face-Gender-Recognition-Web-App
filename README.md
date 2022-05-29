@@ -19,12 +19,12 @@ In order to test the web application locally, execute `python main.py` at the pr
 * The gender classification techniques can significantly improve the computer perceptional and interactional capabilities.
 
 * i) Human-Computer Interaction:
-     * By successfully determining gender, the system can provide appropriate and customized service for users by adapting to them according to their gender.
+     By successfully determining gender, the system can provide appropriate and customized service for users by adapting to them according to their gender.
 
 * ii) Surveillance Systems or Cyber Security:
-      * By gender recognition we can assist intelligent security and surveillance systems to track moving objects, detect abnormal behaviors and facilitate the                 security investigation of criminals who intentionally try to hide their identity information.
+      By gender recognition we can assist intelligent security and surveillance systems to track moving objects, detect abnormal behaviors and facilitate the                 security investigation of criminals who intentionally try to hide their identity information.
 
 * iii) Commercial Development:
-       * Gender Classsification is useful for guiding effective marketing and establishing smart shopping environment in which production can be directed to specific            users through websites, electronic marketing, and advertising etc.
+       Gender Classsification is useful for guiding effective marketing and establishing smart shopping environment in which production can be directed to specific            users through websites, electronic marketing, and advertising etc.
 
 * It can simplify many tasks like for finding missing people, if gender recognition is known then we can eassily find them and it can also improve user experience in     mobile applications(apps) and video games.
